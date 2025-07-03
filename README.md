@@ -100,5 +100,3 @@ Real-time object detection is a critical application of **deep learning** that e
 
 ## **8. Conclusion**  
 Deep learning-based **real-time object detection** is revolutionizing multiple industries, enabling **smart automation, security, healthcare, and robotics**. With advancements in **hardware acceleration and deep learning architectures**, object detection models continue to become **faster, more accurate, and more efficient**.  
-
-Would you like help in implementing **YOLOv8 or Faster R-CNN in Python**? 🚀📸🎯
